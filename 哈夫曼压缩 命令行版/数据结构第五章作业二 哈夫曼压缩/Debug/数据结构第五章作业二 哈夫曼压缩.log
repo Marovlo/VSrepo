@@ -1,0 +1,2 @@
+﻿E:\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(数据结构第五章作业二 哈夫曼压缩-Yuki-Surface.vcxproj, 数据结构第五章作业二 哈夫曼压缩.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  数据结构第五章作业二 哈夫曼压缩.vcxproj -> C:\Users\35920\OneDrive - bupt.edu.cn\Programming\Visual Stdio\VS C++\哈夫曼压缩 命令行版\Debug\哈夫曼压缩 命令行版.exe
